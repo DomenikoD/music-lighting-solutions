@@ -1,22 +1,22 @@
 ---
 anchor: "Services"
 header: "Services"
-subheader: "Lorem ipsum dolor sit amet consectetur."
+subheader: "Custom lighting solutions."
 services: [
   {
     iconName: "ShoppingCartIcon",
     header: "E-Commerce",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    content: "Custom lighting solutions."
   },
   {
     iconName: "LaptopIcon",
     header: "Responsive Design",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    content: "Custom lighting solutions."
   },
   {
     iconName: "LockIcon",
     header: "Web Security",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    content: "Custom lighting solutions."
   }
 ]
 ---

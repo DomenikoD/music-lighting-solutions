@@ -1,4 +1,4 @@
 ---
-brand: "Start Bootstrap"
+brand: "Music Lighting Solutions"
 menuText: "Menu "
 ---
