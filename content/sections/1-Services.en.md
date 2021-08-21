@@ -4,17 +4,17 @@ header: "Services"
 subheader: "Custom lighting solutions."
 services: [
   {
-    iconName: "SunIcon",
+    iconName: "ShoppingCartIcon",
     header: "Art",
     content: "Custom lighting solutions."
   },
   {
-    iconName: "LightbulbIcon",
+    iconName: "LaptopIcon",
     header: "Lighting",
     content: "Custom lighting solutions."
   },
   {
-    iconName: "CartCheckIcon",
+    iconName: "LockIcon",
     header: "Guarantee",
     content: "Fast and safe delivery."
   }
