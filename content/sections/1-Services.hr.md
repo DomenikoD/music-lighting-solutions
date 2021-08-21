@@ -5,18 +5,18 @@ subheader: "Custom lighting solutions."
 services: [
   {
     iconName: "SunIcon",
-    header: "Art",
-    content: "Custom lighting solutions."
+    header: "Umjetnost",
+    content: "Unikatna rasvjetna rješenja."
   },
   {
     iconName: "LightbulbIcon",
-    header: "Lighting",
-    content: "Custom lighting solutions."
+    header: "Jedinstvena rasvjeta",
+    content: "Ukrasna rasvjeta."
   },
   {
     iconName: "CartCheckIcon",
-    header: "Guarantee",
-    content: "Fast and safe delivery."
+    header: "Jamstvo",
+    content: "Brza i sigurna isporuka.."
   }
 ]
 ---
