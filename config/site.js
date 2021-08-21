@@ -9,7 +9,7 @@ module.exports = {
   ],
   description: "Music lighting solutions.",
   author: "Nenad",
-  trackingId: "",
+  trackingId: "UA-119418003-5",
   defaultLang: "hr",
   langTextMap: {
     en: "English",
