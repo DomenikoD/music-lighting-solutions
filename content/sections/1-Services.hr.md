@@ -1,7 +1,7 @@
 ---
 anchor: "Services"
-header: "Services"
-subheader: "Custom lighting solutions."
+header: "MuLiSo"
+subheader: "Musić Lighting Solutions."
 services: [
   {
     iconName: "ShoppingCartIcon",
@@ -11,7 +11,7 @@ services: [
   {
     iconName: "LaptopIcon",
     header: "Jedinstvena rasvjeta",
-    content: "Ukrasna rasvjeta."
+    content: "Ukrasna rasvjeta ."
   },
   {
     iconName: "LockIcon",

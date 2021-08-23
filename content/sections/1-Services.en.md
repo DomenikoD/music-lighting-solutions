@@ -1,7 +1,7 @@
 ---
 anchor: "Services"
-header: "Services"
-subheader: "Custom lighting solutions."
+header: "MuLiSo"
+subheader: "Musić Lighting Solutions."
 services: [
   {
     iconName: "ShoppingCartIcon",
