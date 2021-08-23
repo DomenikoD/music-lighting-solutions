@@ -28,7 +28,7 @@ timeline: [
     content: ""
   },
   {
-    imageContent: "Your\r\light\r\nis in\r\nwork!"
+    imageContent: "Your\r\nlight\r\nis in\r\nwork!"
   }
 ]
 ---
