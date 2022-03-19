@@ -334,40 +334,40 @@ portfolios: [
   {
     imageFileName: "portfolio/45-thumbnail.jpeg",
     imageFileNameDetail: "portfolio/45-full.jpeg",
-    header: "42. Italy",
-    subheader: "42. Italy",
+    header: "42. Football team",
+    subheader: "42. Football team",
     content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
     extraInfo: ["Date: January 2017", "Client: Window", "Category: Photography"]
   },
   {
     imageFileName: "portfolio/46-thumbnail.jpeg",
     imageFileNameDetail: "portfolio/46-full.jpeg",
-    header: "43. Football team",
-    subheader: "43. Football team",
+    header: "43. Austria",
+    subheader: "43. Austria",
     content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
     extraInfo: ["Date: January 2017", "Client: Window", "Category: Photography"]
   },
   {
     imageFileName: "portfolio/47-thumbnail.jpeg",
     imageFileNameDetail: "portfolio/47-full.jpeg",
-    header: "44. Austria",
-    subheader: "44. Austria",
+    header: "44. Basketball Klaka",
+    subheader: "44. Basketball Klaka",
     content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
     extraInfo: ["Date: January 2017", "Client: Window", "Category: Photography"]
   },
   {
     imageFileName: "portfolio/48-thumbnail.jpeg",
     imageFileNameDetail: "portfolio/48-full.jpeg",
-    header: "45. Basketball Klaka",
-    subheader: "45. Basketball Klaka",
+    header: "45. Germany",
+    subheader: "45. Germany",
     content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
     extraInfo: ["Date: January 2017", "Client: Window", "Category: Photography"]
   },
   {
     imageFileName: "portfolio/49-thumbnail.jpeg",
     imageFileNameDetail: "portfolio/49-full.jpeg",
-    header: "46. Germany",
-    subheader: "46. Germany",
+    header: "46. Basketball",
+    subheader: "46. Basketball",
     content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
     extraInfo: ["Date: January 2017", "Client: Window", "Category: Photography"]
   },
@@ -390,16 +390,16 @@ portfolios: [
   {
     imageFileName: "portfolio/52-thumbnail.jpeg",
     imageFileNameDetail: "portfolio/52-full.jpeg",
-    header: "49. Basketball",
-    subheader: "49. Basketball",
+    header: "49. Africa - Gana",
+    subheader: "49. Africa - Gana",
     content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
     extraInfo: ["Date: January 2017", "Client: Window", "Category: Photography"]
   },
   {
     imageFileName: "portfolio/53-thumbnail.jpeg",
     imageFileNameDetail: "portfolio/53-full.jpeg",
-    header: "50. Africa - Gana",
-    subheader: "50. Africa - Gana",
+    header: "50. Love",
+    subheader: "50. Love",
     content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
     extraInfo: ["Date: January 2017", "Client: Window", "Category: Photography"]
   },
