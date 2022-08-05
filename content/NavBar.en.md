@@ -1,4 +1,4 @@
 ---
-brand: "Music Lighting Solutions"
+brand: "Music Nenad Lighting Solutions"
 menuText: "Menu "
 ---
