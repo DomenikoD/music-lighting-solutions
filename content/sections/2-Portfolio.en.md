@@ -885,7 +885,7 @@ portfolios: [
   },
   {
     imageFileName: "portfolio/114.jpeg",
-    imageFileNameDetail: "portfolio/84.jpeg",
+    imageFileNameDetail: "portfolio/114.jpeg",
     header: "114. Urbana ljepota",
     subheader: "114. Urbana ljepota",
     content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
@@ -893,7 +893,7 @@ portfolios: [
   },
   {
     imageFileName: "portfolio/115.jpeg",
-    imageFileNameDetail: "portfolio/85.jpeg",
+    imageFileNameDetail: "portfolio/115.jpeg",
     header: "115. Fanika",
     subheader: "115. Fanika",
     content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
